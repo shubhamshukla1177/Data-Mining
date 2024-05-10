@@ -1,2 +1,3 @@
 # DataNerd
-This repo contains presentation of different classifications and clustering projects. 
+
+This repository contains classification and clustering projects.
